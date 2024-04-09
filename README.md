@@ -1,4 +1,4 @@
-### Olá eu sou Marcus Vinycius 👋<br><br>- 🔭 Hojê eu trabalho como Auxiliar de Sistemas com desenvolvimentos em PYTHON...<br>-💻  Estou cursando ADS, estou aprendendo alguns frameworks DJANGO, MYSQL, Docker  ...<br>
+### Olá eu sou Marcus Vinycius 👋<br><br>- 🔭 Hojê eu trabalho como Auxiliar de Sistemas com desenvolvimentos em PYTHON...<br>-💻  Estou cursando ADS, estou aprendendo alguns frameworks DJANGO, MYSQL, DOCKER  ...<br>
 Tenho me dedicado a aprofundar meu conhecimento nessas tecnologias, explorando suas funcionalidades e aplicando-as em projetos práticos. <br>-->
 
 
