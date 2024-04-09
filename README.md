@@ -1,4 +1,4 @@
-### Olá eu sou Marcus Vinycius 👋<br><br>- 🔭 Hojê eu trabalho como Tec. T.I. tenho algumas oportunidades de fazer alguns desenvolvimentos em PYTHON por estar trabalhando ao lado de 1 pleno e 1 Senior...<br>- 🌱 Estou cursando ADS, estou aprendendo alguns frameworks DJANGO, MYSQL, R e PYTHON  ...<br>
+### Olá eu sou Marcus Vinycius 👋<br><br>- 🔭 Hojê eu trabalho como Auxiliar de Sistemas com desenvolvimentos em PYTHON...<br>- 🌱 Estou cursando ADS, estou aprendendo alguns frameworks DJANGO, MYSQL, Docker  ...<br>
 Tenho me dedicado a aprofundar meu conhecimento nessas tecnologias, explorando suas funcionalidades e aplicando-as em projetos práticos. <br>-->
 
 
