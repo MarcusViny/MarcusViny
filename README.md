@@ -1,5 +1,6 @@
 ### Olá eu sou Marcus Vinycius 👋<br><br>- 🔭 Hojê eu trabalho como Auxiliar de Sistemas com desenvolvimentos em PYTHON...<br>-💻  Estou cursando ADS, estou aprendendo alguns frameworks DJANGO, MYSQL, DOCKER  ...<br>
-Tenho me dedicado a aprofundar meu conhecimento nessas tecnologias, explorando suas funcionalidades e aplicando-as em projetos práticos. <br>-->
+Tenho me dedicado a aprofundar meu conhecimento nessas tecnologias, explorando suas funcionalidades e aplicando-as em projetos práticos. <br> Trabalhei como Tecnico de Informatica, dando suporte para 60 colaboradores tendo que fazer desde formatação, recuperação de algumas peças, instalações de software até mesmo fazer algumas automações utilizando python, automatizando alguns cálculos de excel onde também tenho conhecimento intermediário, conhecimento com GLPI para atendimentos via chamado, tomada de decisão dos níveis de prioridade visando total funcionamento da empresa<br>
+Minhas iniciativas em automação resultaram em avanços profissionais notáveis, culminando na promoção para o cargo de Auxiliar de Sistemas. Atualmente, meu foco reside no refinamento de códigos e na integração com bancos de dados em contêineres utilizando a tecnologia Docker. Anteriormente, operava rotinas através do prompt de comando; no entanto, com o apoio de colegas, desenvolvemos uma plataforma capaz de executar agendamentos automatizados <br> Exemplificando meu compromisso com a inovação e eficiência operacional.
 
 
 ## 🌐 Socials:
